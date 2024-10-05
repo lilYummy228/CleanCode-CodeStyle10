@@ -9,7 +9,7 @@
             _effects.StartEnableAnimation();
         }
 
-        public void Disable()
+        public void Disable() 
         {
             _enable = false;
 
